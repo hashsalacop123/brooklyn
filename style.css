@@ -947,7 +947,11 @@ textarea.form-control {
     color: #dc2626;
 }
 
-
+.image-dashboards img {
+    border-radius: 15px;
+    border: 1px solid #eeddeedd;
+    padding: 12px;
+}
 /* =========================================================
    FOOTER
 ========================================================= */
